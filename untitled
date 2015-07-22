@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Prime Assessment One</title>
+		<meta name="description" content="Webpage">
+		<link rel="stylesheet" type="text/css" href="bootstrap-3.3.5-dist/css/bootstrap.min.css">
+		<link href="stylesheet.css" type="text/css" rel="stylesheet">
+		<script src="jquery.min.js"></script>
+		<script src="script.js"></script>
+	</head>
+	<body>
+	<main class="col-md-10">
+		<form id="Prime Assessment One">
+			<fieldset>
+				<legend>Prime Assessment One</legend>
+					<input type="button" value="Click Me" name="submitButton">
+			</fieldset>
+		</form>	
+		<div id="Prices and Totals">
+			<p class="appleQuantity">Apple Quantity:</p>
+			<p class="orangeQuantity">Orange Quantity:</p>
+			<p class="pearQuantity"> Pear Quantity:</p>
+			<p class="bananaQuantity">Banana Quantity:</p>
+		</div>
+	</label>	
+	</body>
+</html>

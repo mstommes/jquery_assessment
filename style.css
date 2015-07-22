@@ -1,0 +1,5 @@
+/*In a CSS file, target a class that changes the background color of the div to green.*/
+
+.myDiv {
+	background-color: green;
+}
